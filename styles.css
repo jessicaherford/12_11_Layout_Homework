@@ -1,0 +1,53 @@
+body{
+  margin: 0;
+}
+
+header{
+height: 10vh;
+background-color: #102132;
+}
+
+
+section{
+  height: 80vh;
+  background-color: #FF0000;
+  width: 100vw;
+}
+
+
+footer{
+  height: 80px;
+  background-color: #878888;
+  position:fixed;
+  left:0px;
+  bottom:0px;
+  width:100%;
+  background:#999;
+}
+
+.boxes{
+  width: 50vw;
+  margin: 0 auto;
+  /*background-color: blue;*/
+  
+}
+
+.box1, .box2, .box3, .box4{
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  text-align: center;
+  margin-right: -4px;
+  margin-top: 140px;
+}
+
+.box1{
+  margin-left: 20%;
+}
+.box1, .box3{
+  background-color: #2C9913;
+}
+
+.box2, .box4{
+  background-color: #13AB28;
+}
