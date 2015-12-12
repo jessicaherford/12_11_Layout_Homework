@@ -9,7 +9,7 @@ background-color: #102132;
 
 
 section{
-  height: 80vh;
+  height: 90vh;
   background-color: #FF0000;
   width: 100vw;
 }
@@ -17,7 +17,7 @@ section{
 
 footer{
   height: 80px;
-  background-color: #878888;
+  background-color: #888888;
   position:fixed;
   left:0px;
   bottom:0px;
@@ -26,10 +26,10 @@ footer{
 }
 
 .boxes{
-  width: 50vw;
+  width: 100%;
   margin: 0 auto;
   /*background-color: blue;*/
-  
+
 }
 
 .box1, .box2, .box3, .box4{
@@ -42,7 +42,7 @@ footer{
 }
 
 .box1{
-  margin-left: 20%;
+  margin-left: 35%;
 }
 .box1, .box3{
   background-color: #2C9913;
